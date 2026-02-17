@@ -51,4 +51,4 @@ Não testar UX não elimina testes.
 Apenas empurra os problemas para quando o usuário real já estiver usando o sistema.
 
 Testar protótipos permite aprender, corrigir e evoluir o design antes da implementação.
-`
+
