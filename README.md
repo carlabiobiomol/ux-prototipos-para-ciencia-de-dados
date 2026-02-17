@@ -1,10 +1,10 @@
-![Capa](imagens/capa.png)
-
 # Protótipos de UX para Ciência de Dados  
 ## Baixa Fidelidade x Alta Fidelidade
 
-Este repositório explica, de forma introdutória e prática,  
+Este repositório apresenta, de forma introdutória e prática,  
 por que protótipos de UX são importantes em projetos de Ciência de Dados e Inteligência Artificial.
+
+O conteúdo faz parte do meu processo de aprendizagem, com foco em organização, clareza e boas práticas na construção de soluções orientadas a dados.
 
 ---
 
@@ -18,11 +18,13 @@ Elas surgem quando:
 - fluxos são confusos  
 - a confiança no sistema é baixa  
 
-Testar protótipos reduz risco técnico e de negócio.
+Testar protótipos ajuda a reduzir riscos técnicos e de negócio, permitindo ajustes antes da implementação.
 
 ---
 
 ## ✏️ Protótipos de Baixa Fidelidade
+
+Os protótipos de baixa fidelidade são usados nas fases iniciais do projeto, com o objetivo de explorar ideias e validar fluxos.
 
 Características:
 - wireframes  
@@ -30,25 +32,37 @@ Características:
 - pouca ou nenhuma interatividade  
 - conteúdo simplificado  
 
-Usados nas fases iniciais do projeto, para explorar ideias e validar fluxos.
+Eles permitem testar conceitos rapidamente, com baixo custo e esforço.
 
 ---
 
 ## 🖥️ Protótipos de Alta Fidelidade
+
+Os protótipos de alta fidelidade são utilizados quando o fluxo já está definido e o foco passa a ser a experiência do usuário.
 
 Características:
 - visual próximo do produto final  
 - elementos clicáveis  
 - fluxos completos  
 
-Usados para refinar a experiência do usuário e simular interações reais.
+Esses protótipos ajudam a simular interações reais e identificar problemas de usabilidade antes do desenvolvimento.
 
 ---
 
 ## 📌 Conclusão
 
 Não testar UX não elimina testes.  
-Apenas empurra os problemas para quando o usuário real já estiver usando o sistema.
+Apenas adia os problemas para quando o usuário real já estiver utilizando o sistema.
 
-Testar protótipos permite aprender, corrigir e evoluir o design antes da implementação.
+A prototipagem permite aprender, corrigir e evoluir o design de forma incremental e consciente.
 
+---
+
+## 👩‍🎓 Sobre mim
+
+Sou estudante na área de Ciência de Dados e este repositório faz parte do meu processo de aprendizagem prática.  
+O objetivo do projeto é compreender a importância da prototipagem de UX em projetos de dados e IA, explorando conceitos de baixa e alta fidelidade de forma introdutória.
+
+Este material reflete meu desenvolvimento técnico e conceitual, com foco em organização, clareza e comunicação.
+
+🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/carla-rodrigues-de-moraes-145444285
