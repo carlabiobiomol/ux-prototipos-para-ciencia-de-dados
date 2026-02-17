@@ -1,3 +1,4 @@
+![Capa](imagens/capa.png)
 # Protótipos de UX para Ciência de Dados  
 ## Baixa Fidelidade x Alta Fidelidade
 
